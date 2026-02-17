@@ -1,55 +1,63 @@
-# 👋 Olá, eu sou o Erasmo!
+# 👋 Olá, eu sou o Erasmo
 
 🎓 Estudante de Engenharia de Software  
 💻 Desenvolvedor Full Stack em formação  
-📍 Minas Gerais, Brasil  
+🚀 Construindo aplicações modernas, organizadas e escaláveis  
 
 ---
 
 ## 🚀 Sobre mim
 
 Sou apaixonado por tecnologia e desenvolvimento de software.  
-Atualmente estou focado em evoluir como Desenvolvedor Full Stack, construindo projetos práticos para consolidar meus conhecimentos em front-end e back-end.
+Venho construindo uma base sólida em front-end, lógica de programação e backend através de projetos práticos e estudo contínuo.
 
-Tenho experiência com:
-
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
-- Estruturação semântica
-- Manipulação de DOM
-- Lógica de programação
-
-Meu objetivo é me tornar um desenvolvedor completo, capaz de criar aplicações modernas, escaláveis e bem estruturadas.
+Meu foco é evoluir como Desenvolvedor Full Stack, criando aplicações completas, bem estruturadas e com boas práticas.
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## 🛠️ Tecnologias
 
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ---
 
-## 📚 Atualmente estudando
+## 🧠 Base Técnica
 
-- JavaScript avançado
-- Estrutura de Dados
-- Back-end (Node.js)
-- Banco de Dados
-- Arquitetura de Software
+- Estruturação semântica com HTML5  
+- Estilização moderna e responsiva com CSS3  
+- Manipulação de DOM e interatividade com JavaScript  
+- Programação estruturada com Python  
+- Modelagem e consultas SQL com MySQL  
+- Lógica de programação e resolução de problemas  
+
+---
+
+## 📈 Estatísticas
+
+<div>
+  <a href="https://github.com/Erasmo-Jr">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Erasmo-Jr&show_icons=true&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erasmo-Jr&layout=compact&theme=radical"/>
+  </a>
+</div>
 
 ---
 
-## 📈 Objetivo
+## 🎯 Objetivo
 
-Buscando oportunidade como Desenvolvedor Full Stack Júnior para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir com projetos reais.
+Atuar como Desenvolvedor Full Stack Júnior, aplicando meus conhecimentos em projetos reais e evoluindo constantemente como profissional de tecnologia.
 
----
 
 ## 📫 Contato
 
