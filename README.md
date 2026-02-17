@@ -59,15 +59,6 @@ Projetos práticos aplicando HTML5 e CSS3 com foco em organização e responsivi
 
 ---
 
-## 📈 Estatísticas
-
-![Erasmo GitHub stats](https://github-readme-stats.vercel.app/api?username=Erasmo-Jr&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erasmo-Jr&layout=compact&theme=tokyonight&cache_seconds=1800)
-
-
----
-
 ## 🎯 Objetivo
 
 Atuar como Desenvolvedor Full Stack Júnior, contribuindo em projetos reais, aplicando boas práticas de desenvolvimento e evoluindo constantemente como profissional de tecnologia.
