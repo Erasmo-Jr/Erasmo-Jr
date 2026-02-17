@@ -55,5 +55,4 @@ Buscando oportunidade como Desenvolvedor Full Stack Júnior para aplicar meus co
 
 - LinkedIn: (www.linkedin.com/in/erasmo-roberto-b1936a264)
 
-)
 - Email: (erasmojunior456@gmail.com)
