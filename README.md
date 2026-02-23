@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Erasmo
+#  Olá, eu sou o Erasmo
 
 🎓 Estudante de Engenharia de Software  
 💻 Desenvolvedor Full Stack em formação  
