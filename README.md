@@ -2,6 +2,7 @@
 
 🎓 Estudante de Engenharia de Software  
 💻 Desenvolvedor Full Stack Jr
+
 🚀 Focado em construir aplicações modernas, organizadas e escaláveis  
 
 ---
