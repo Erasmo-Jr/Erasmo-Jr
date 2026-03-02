@@ -1,7 +1,7 @@
 #  Olá, eu sou o Erasmo
 
 🎓 Estudante de Engenharia de Software  
-💻 Desenvolvedor Full Stack em formação  
+💻 Desenvolvedor Full Stack Jr 
 🚀 Focado em construir aplicações modernas, organizadas e escaláveis  
 
 ---
