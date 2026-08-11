@@ -23,7 +23,6 @@ Estou em constante evolução, buscando transformar conhecimento em projetos rea
 <img align="center" alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="MySQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="Godot" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
 </div>
 
 ---
@@ -40,9 +39,6 @@ Estou em constante evolução, buscando transformar conhecimento em projetos rea
 ---
 
 ## 🚀 Projetos em Destaque
-
-📌 **Cat Platformer**  <br>
-Jogo de plataforma protagonizado por um gato, desenvolvido na engine Godot.
 
 📌 **Algoritmos e Lógica**  <br>
 Exercícios e desafios focados em raciocínio lógico e estrutura de programação.
