@@ -41,9 +41,6 @@ Estou em constante evolução, buscando transformar conhecimento em projetos rea
 
 ## 🚀 Projetos em Destaque
 
-📌 **ENDRE (Enhanced Neural Digital Reasoning Engine)**  <br>
-Assistente de IA pessoal local, no estilo Jarvis — meu projeto de longo prazo, aplicando conceitos de Python orientado a objetos.
-
 📌 **Cat Platformer**  <br>
 Jogo de plataforma protagonizado por um gato, desenvolvido na engine Godot.
 
