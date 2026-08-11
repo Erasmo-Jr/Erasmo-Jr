@@ -1,14 +1,14 @@
 # Olá, eu sou o Erasmo 👋
 
-🎓 Formando em Engenharia de Software
-💻 Desenvolvedor Full Stack Jr
+🎓 Engenheiro de Software  <br>
+💻 Desenvolvedor Full Stack Jr  <br>
 🚀 Focado em construir aplicações modernas, organizadas e escaláveis
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por tecnologia e desenvolvimento de software.
+Sou apaixonado por tecnologia e desenvolvimento de software.  <br>
 Venho construindo uma base sólida em front-end, lógica de programação e back-end, sempre priorizando organização, clareza e boas práticas no código.
 
 Estou em constante evolução, buscando transformar conhecimento em projetos reais — e explorando também áreas como **BI e Governança de TI** como possíveis caminhos de crescimento.
@@ -41,22 +41,22 @@ Estou em constante evolução, buscando transformar conhecimento em projetos rea
 
 ## 🚀 Projetos em Destaque
 
-📌 **ENDRE (Enhanced Neural Digital Reasoning Engine)**
+📌 **ENDRE (Enhanced Neural Digital Reasoning Engine)**  <br>
 Assistente de IA pessoal local, no estilo Jarvis — meu projeto de longo prazo, aplicando conceitos de Python orientado a objetos.
 
-📌 **Cat Platformer**
+📌 **Cat Platformer**  <br>
 Jogo de plataforma protagonizado por um gato, desenvolvido na engine Godot.
 
-📌 **Algoritmos e Lógica**
+📌 **Algoritmos e Lógica**  <br>
 Exercícios e desafios focados em raciocínio lógico e estrutura de programação.
 
-📌 **JavaScript – Fundamentos e DOM**
+📌 **JavaScript – Fundamentos e DOM**  <br>
 Manipulação de elementos, eventos e interatividade em páginas web.
 
-📌 **Python – Fundamentos e Prática**
+📌 **Python – Fundamentos e Prática**  <br>
 Estruturas condicionais, loops, funções e resolução de problemas.
 
-📌 **Projetos Front-End**
+📌 **Projetos Front-End**  <br>
 Projetos práticos aplicando HTML5 e CSS3 com foco em organização e responsividade.
 
 ---
