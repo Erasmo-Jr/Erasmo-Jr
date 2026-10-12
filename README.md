@@ -62,5 +62,5 @@ Atuar como Desenvolvedor(a) Full Stack, contribuindo em projetos reais, aplicand
 
 ## 📫 Contato
 
-- LinkedIn: [www.linkedin.com/in/erasmo-roberto-b1936a264](https://www.linkedin.com/in/erasmo-junior-b1936a264)
+- LinkedIn: [www.linkedin.com/in/erasmo-junior-b1936a264](https://www.linkedin.com/in/erasmo-junior-b1936a264)
 - Email: erasmojunior456@gmail.com
